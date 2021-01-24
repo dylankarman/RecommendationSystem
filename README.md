@@ -6,5 +6,6 @@
 Have you ever wondered how Netflix, or Amazon, knows what you want to watch or buy before you yourself even know? Well, it is based on what other people have watched or bought before you, who have similar tastes. This project demonstrates how a recommendation system similar to what Netflix might use works. This is very useful in a business sense because you can save time and money on advertising and getting people to buy things that they do not even need. 
 
 Please feel free to run the code in the notebook and follow the instructions at the bottom of the page to have a list of movies recommended for you!
+The more movies that you choose to rate, the better your results will be.
 
 Have fun!
